@@ -1,0 +1,73 @@
+  
+{
+    "destinations": [
+      {
+        "id": 0,
+        "name": "Cox's Bazar",
+        "img": "https://i.ibb.co/Y0Mv1HX/sundorbon.png",
+        "smallDiscription": "Sundorbon fishing portheadquarters in southeastern  It is famous mostly for its long natural sandy beach, and it ...",
+        "BigDiscription": "Sundorbon is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+      },
+  
+      {
+        "id": 1,
+        "name": "Sreemangal",
+        "img": "https://i.ibb.co/NNnS9Jq/Sreemongol.png",
+        "smallDiscription": "Sreemongol fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ...",
+        "BigDiscription": "Sreemongol is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+      },
+  
+      {
+        "id": 2,
+        "name": "Sajek",
+        "img": "https://i.ibb.co/CVwhskm/Sajek.png",
+        "smallDiscription": "Sajek is a fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ...",
+        "BigDiscription": "Sajek is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+      }
+    ],
+  
+    "hotels": [
+      {
+        "id": 0,
+        "name": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://i.ibb.co/Px3Vf0Q/Rectangle-26.png",
+        "guests": 4,
+        "bedrooms": 2,
+        "bed": 2,
+        "bath": 2,
+        "rateing": 4.5,
+        "numberofpeopleRate": 12,
+        "singlePrice": 35,
+        "total": 140
+      },
+  
+      {
+        "id": 2,
+        "name": "Apartment in Lost Panorama",
+        "img":"https://i.ibb.co/zVt4vXY/Rectangle-27.png",
+        "guests": 3,
+        "bedrooms": 2,
+        "bed": 2,
+        "bath": 2,
+        "rateing": 4.3,
+        "numberofpeopleRate": 20,
+        "singlePrice": 70,
+        "total": 230
+      },
+  
+      {
+        "id": 3,
+        "name": "AR Lounge & Pool (r&r + b&b)",
+        "img": "https://i.ibb.co/xmDwM8h/Rectangle-28.png",
+        "guests": 2,
+        "bedrooms": 1,
+        "bed": 1,
+        "bath": 2,
+        "rateing": 4.5,
+        "numberofpeopleRate": 18,
+        "singlePrice": 40,
+        "total": 120
+      }
+    ]
+  }
+  
